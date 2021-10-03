@@ -12,3 +12,5 @@ Main view:
 Demonstrating edit function:
 
 <a href="https://ibb.co/FW1Gm4S"><img src="https://i.ibb.co/0XLPmyg/Screen-Shot-2021-10-02-at-12-53-25-AM.png" alt="Screen-Shot-2021-10-02-at-12-53-25-AM" border="0"></a>
+
+<a href="https://ibb.co/x7hGkjb"><img src="https://i.ibb.co/DR4kJCF/Screen-Shot-2021-10-02-at-9-49-53-PM.png" alt="Screen-Shot-2021-10-02-at-9-49-53-PM" border="0"></a>
